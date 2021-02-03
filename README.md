@@ -1,4 +1,4 @@
 # Translator_APP
-Translator_APP_(use. app inventor)
+use. app inventor
 미래설계 Project (with. sim)
 음성번역 가능
